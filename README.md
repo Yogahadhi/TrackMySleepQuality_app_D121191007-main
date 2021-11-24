@@ -16,6 +16,12 @@ In this codelab, working from this starter app, you will:
 * Use LiveData to trigger navigation and showing of a snackbar. 
 * Use LiveData to enable and disable buttons.
 
+PREVIEW
+
+
+<img width="200" alt="Capture9" src="https://user-images.githubusercontent.com/56622689/143190608-ad5181c5-ab6d-4962-bb95-167aace3aaf8.PNG">
+<img width="197" alt="Capture8" src="https://user-images.githubusercontent.com/56622689/143190649-83a34df5-5f2e-494e-9a58-14ab298960cf.PNG">
+
 
 Pre-requisites
 --------------
